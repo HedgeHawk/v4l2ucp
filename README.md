@@ -1,3 +1,5 @@
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/HedgeHawk/v4l2ucp/CMake)
+
 # v4l2ucp
 v4l2ucp - A universal control panel for all Video for Linux Two (V4L2) devices.
 
